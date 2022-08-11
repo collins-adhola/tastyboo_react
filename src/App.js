@@ -1,6 +1,6 @@
 
-import Expenses from "./components/Expenses";
-import Nav from "./components/Nav";
+import Expenses from "./components/Expenses/Expenses";
+
 
 
 function App() {
@@ -28,7 +28,6 @@ function App() {
   return (
     <div>
       <h2>Let's get started!</h2>
-      <Nav />
       <Expenses item={expenses}/>
       
 

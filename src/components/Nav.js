@@ -1,9 +1,10 @@
 import React from 'react'
 
+
 function Nav() {
   return (
     <div>
-      const Nav = () =>
+      
       <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
         <div className="container">
           <button

@@ -11,7 +11,7 @@ function ExpenseItem(props) {
 
  
   const clickHandler = ()=>{ setTitle('iamnew')
-  console.log(clickHandler);
+  
 }
   
   return (
